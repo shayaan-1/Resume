@@ -130,6 +130,9 @@ body {
   #main > div:nth-child(odd) {
     background-color: white; 
   }
+  #container{
+    margin: 0 auto;
+  }
   #header {
     grid-template-columns: 1fr;
     text-align: center;
